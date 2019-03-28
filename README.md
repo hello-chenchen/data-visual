@@ -5,7 +5,7 @@ for big data visualization
   
 
 ## TODO
-- technology stack selection | 2019.03.28~2019.04.05
+- [technology stack selection](https://github.com/hello-chenchen/data-visual/blob/master/doc/technology-stack-selection.md) | 2019.03.28~2019.04.05
 - architectures design | unknow
 
 ## Dependence
