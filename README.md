@@ -5,7 +5,7 @@ for big data visualization
   
 
 ## TODO
-- technology stack    2019.03.28~2019.04.05
+- technology stack selection    2019.03.28~2019.04.05
 - architectures design    unknow
 
 ## Dependence
