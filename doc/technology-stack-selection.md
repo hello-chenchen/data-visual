@@ -29,3 +29,9 @@
 ## 数据库选型
 - 待定
 - TODO: 更多是数据供应商提供，需要支持的数据库类型
+
+## 相关文档
+https://help.aliyun.com/document_detail/30360.html?spm=a2c4g.11186623.6.542.4c761bdbvd1QZ2
+https://www.zhihu.com/question/49749071
+https://www.zhihu.com/question/26685414
+https://www.zhihu.com/question/19929609
