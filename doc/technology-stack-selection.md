@@ -19,6 +19,9 @@
 ## 前端选型
 - 待定
 - TODO: 多组件支持，针对不同行业
+- https://echarts.baidu.com/ | https://github.com/apache/incubator-echarts
+- http://antv.alipay.com/zh-cn/index.html | https://github.com/antvis/
+- http://recharts.org/zh-CN/ | https://github.com/recharts/recharts
 
 ## Server选型
 - 待定
