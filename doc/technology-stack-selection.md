@@ -17,22 +17,26 @@
 - 无CDN
 
 ## 前端选型
-- 待定
 - TODO: 多组件支持，针对不同行业
 - https://echarts.baidu.com/ | https://github.com/apache/incubator-echarts
 - http://antv.alipay.com/zh-cn/index.html | https://github.com/antvis/
 - http://recharts.org/zh-CN/ | https://github.com/recharts/recharts
 
-## Server选型
-- 待定
-- TODO: 是否支持负载均衡和请求分发
-
 ## 通信接口选型
 - Rest接口
 
+## Server选型
+- TODO: 是否支持负载均衡和请求分发
+- nginx 负载均衡和请求转发，待选
+- tomcat servelt 服务器，做servelt的 request | parse | response
+
+## 后端框架选型
+- spring boot(视图层和业务层) TODO: 自动化编译和部署工具 maven or gradle
+- Mybatis(持久化层) https://www.jianshu.com/p/687de634c8f0 | https://blog.csdn.net/q283614346/article/details/83119757
+
 ## 数据库选型
-- 待定
 - TODO: 更多是数据供应商提供，需要支持的数据库类型
+- 支持列表：mysql
 
 ## 相关文档
 https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96
