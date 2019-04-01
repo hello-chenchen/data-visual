@@ -29,6 +29,7 @@
 - TODO: 是否支持负载均衡和请求分发
 - nginx 负载均衡和请求转发，待选
 - tomcat servelt 服务器，做servelt的 request | parse | response
+- TODO: 是否采用微服务架构
 
 ## 后端框架选型
 - spring boot(视图层和业务层) TODO: 自动化编译和部署工具 maven or gradle
