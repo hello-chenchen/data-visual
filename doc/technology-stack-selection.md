@@ -32,7 +32,7 @@
 
 ## 后端框架选型
 - spring cloud(微服务架构,便于扩展和维护)
-- spring boot(自动化) TODO: 自动化编译和部署工具 maven or gradle
+- spring boot(自动化) TODO: 自动化编译和部署工具 gradle(配置看上去更简单,用户友好度比maven高)
 - spring framework(后端rest接口)
 - Mybatis(持久化层) https://www.jianshu.com/p/687de634c8f0 | https://blog.csdn.net/q283614346/article/details/83119757
 
