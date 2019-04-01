@@ -23,7 +23,7 @@
 - http://recharts.org/zh-CN/ | https://github.com/recharts/recharts
 
 ## 通信接口选型
-- Rest接口
+- Rest接口(前后台交互, 微服务之间的交互)
 
 ## Server选型
 - TODO: 是否支持负载均衡和请求分发
