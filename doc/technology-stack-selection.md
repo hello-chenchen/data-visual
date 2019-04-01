@@ -26,7 +26,7 @@
 - Rest接口(前后台交互, 微服务之间的交互)
 
 ## Server选型
-- TODO: 是否支持负载均衡和请求分发
+- TODO: 是否支持负载均衡和请求分发 | https://blog.csdn.net/w05980598/article/details/79007194
 - nginx 负载均衡和请求转发，待选
 - tomcat servelt 服务器，做servelt的 request | parse | response
 
