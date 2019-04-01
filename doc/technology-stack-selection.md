@@ -31,9 +31,9 @@
 - tomcat servelt 服务器，做servelt的 request | parse | response
 
 ## 后端框架选型
-- spring cloud(微服务架构,便于扩展和维护)
-- spring boot(自动化) TODO: 自动化编译和部署工具 gradle(配置看上去更简单,用户友好度比maven高)
-- spring framework(后端rest接口)
+- spring cloud(微服务架构,便于扩展和维护) | https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/single/spring-cloud.html
+- spring boot(自动化) TODO: 自动化编译和部署工具 gradle(配置看上去更简单,用户友好度比maven高) | https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/htmlsingle/
+- spring framework(后端rest接口) | https://docs.spring.io/spring/docs/5.1.6.RELEASE/spring-framework-reference/core.html#beans-introduction
 - Mybatis(持久化层) https://www.jianshu.com/p/687de634c8f0 | https://blog.csdn.net/q283614346/article/details/83119757
 
 ## 数据库选型
